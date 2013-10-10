@@ -1,0 +1,98 @@
+html {
+    
+    background:#C0C0C0 ;
+}
+
+body {
+     background:#ffffff;
+    width:1005px;
+    margin: 0 auto 0 auto;
+    font:Georgia,serif;
+    border-right-style:solid;
+    border-left-style:solid;
+    border-width:thin;
+    
+
+}
+
+#bannerhead {
+    text-align:center;
+    padding-top:10px;
+}
+
+#headline {
+    text-align:center;
+    font:bold 60px Georgia,serif;
+    padding-bottom:5px;
+    padding-right:20px;
+    padding-left:20px;
+}
+
+#headpic {
+    text-align:center;
+    padding-bottom:5px;
+}
+
+#headlinks {
+    text-align:center;
+   font:italic 30px Georgia,serif;
+   padding-right:90px;
+   padding-left:90px;
+   padding-bottom:10px;
+}
+
+#logo {
+    text-align:center;
+    border-top-style:solid;
+    border-bottom-style:solid;
+    padding:14px 5px 10px 5px;
+    background:#F8F8F8  ;
+  
+    
+    
+}
+
+#countcontainer {
+    
+    border-bottom-style:solid;
+    border-width:thin;
+    overflow: auto;
+    padding:5px;
+   background:#F8F8F8  ;
+ 
+    font-size: 20px;
+    
+}
+
+
+#countleft {
+    width:49%;
+    float:left;
+    border-right-style:solid;
+    border-width:thin;
+    text-align:center;
+   
+}
+
+#countright {
+    width:50%;
+    float:right;
+    text-align:center;
+}
+    
+#content {
+    
+    background:#F8F8F8  ;
+    font:bold 15px Georgia;
+   
+    
+}
+
+
+footer {
+    text-align:center;
+    border-top-style:solid;
+    background:#F8F8F8  ;
+    padding-top:14px;
+    padding-bottom:14px;
+}
