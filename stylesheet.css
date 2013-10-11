@@ -1,4 +1,3 @@
-
 html {
     
     background:#C0C0C0 ;
@@ -71,8 +70,6 @@ body {
 #countleft {
     width:49%;
     float:left;
-    border-right-style:solid;
-    border-width:thin;
     text-align:center;
    
 }
@@ -80,6 +77,8 @@ body {
 #countright {
     width:50%;
     float:right;
+    border-left-style:solid;
+    border-width:thin;
     text-align:center;
 }
     
