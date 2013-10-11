@@ -89,9 +89,15 @@ body {
     font:15px;
     font-weight:bold;
    
-    
 }
 
+#col1 {
+    width:1px;
+    background-color:#C0C0C0;
+    margin-left:1px;
+    margin-right:1px;
+    height:100%;
+}
 
 footer {
     text-align:center;
