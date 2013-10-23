@@ -103,6 +103,7 @@ body {
 #posts {
     padding-left:20px;
     padding-right:20px;
+    height:820px;
 }
 
 #article {
@@ -111,7 +112,7 @@ body {
 }
 
 #article-containter {
-    height:100%;
+    height:800px;
 }
 
 #article-ad {
