@@ -107,6 +107,7 @@ body {
 
 #article {
     width:700px;
+    float:left;
 }
 
 #article-ad {
