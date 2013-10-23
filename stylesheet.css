@@ -110,6 +110,10 @@ body {
     float:left;
 }
 
+#article-containter {
+    height:100%;
+}
+
 #article-ad {
     float:right;
 }
