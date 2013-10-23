@@ -105,6 +105,10 @@ body {
     padding-right:20px;
 }
 
+#article {
+    width:600px;
+}
+
 #article-ad {
     float:right;
 }
