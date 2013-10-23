@@ -105,6 +105,10 @@ body {
     padding-right:20px;
 }
 
+#article-ad {
+    float:right;
+}
+
 footer {
     text-align:center;
     border-top-style:solid;
