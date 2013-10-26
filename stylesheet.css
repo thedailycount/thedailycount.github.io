@@ -103,12 +103,13 @@ body {
 #posts {
     padding-left:25px;
     padding-right:25px;
-    height:820px;
+    height:auto;
 }
 
 #article {
     width:700px;
     float:left;
+    height:auto;
 }
 
 
